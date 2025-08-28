@@ -1,3 +1,16 @@
+How to install 
+⚙️ Installation
+Download the release build and extract it
+then in comment_toxicity folder
+
+⚙️Install dependencies
+pip install -r requirements.txt
+
+⚙️Run the app (example with Streamlit)
+streamlit run app.py
+
+
+
 # Comment-Toxicity
 This project implements a deep learning-based multi-label text classification model to detect different types of toxic comments. The model is trained to classify user-generated comments into multiple categories of toxicity, such as:  ✅ Toxic  ✅ Severe Toxic  ✅ Obscene  ✅ Threat  ✅ Insult  ✅ Identity Hate
 ![image alt](https://github.com/OMXO/Comment-Toxicity/blob/c3d67c73cb3f06b50f2da1f7b6f27339f84e60a4/Screenshot%202025-08-28%20132614.png)
