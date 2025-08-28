@@ -1,5 +1,6 @@
 How to install 
-⚙️ Installation
+
+⚙️Installation
 Download the release build and extract it
 then in comment_toxicity folder
 
